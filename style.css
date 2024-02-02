@@ -1,0 +1,22 @@
+.container{
+    background-color:darkseagreen;
+    color:pink;
+    text-align: center;
+    font-size: larger;
+}
+#button{
+    background-color:  rgb(60, 229, 241);
+    border: 5px;
+    border-radius: 5px solid black;
+}
+.jokes{
+    background-color: crimson;
+    color: #ffff;
+    padding: 5px;
+    border-radius: 10px soild black;
+    text-align: center;
+    font-style: italic;
+    font-size: medium;
+}
+
+
